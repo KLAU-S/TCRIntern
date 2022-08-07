@@ -21,7 +21,7 @@ The Dataset contains 21 attributes, can be categorised and sub-categorised into 
 
 - other attributes (4):
 1. **campaign**: number of contacts performed during this campaign and for this client (numeric, includes last contact)
-1. ` `**pdays**: number of days dat passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
+1. **pdays**: number of days dat passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
 1. **previous**: number of contacts performed before this campaign and for this client (numeric)
 1. **poutcome**: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 
